@@ -1,0 +1,37 @@
+# Environment variables — NEVER commit these
+.env
+*.env
+
+# Python virtual environments
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ML model artifacts (large binary files)
+*.pkl
+*.joblib
+
+# Node modules (can be reinstalled with npm install)
+node_modules/
+npm-debug.log*
+
+# React build output
+frontend/build/
+frontend/.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
