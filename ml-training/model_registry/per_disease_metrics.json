@@ -1,0 +1,289 @@
+[
+  {
+    "disease": "Chicken pox",
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "support": 1
+  },
+  {
+    "disease": "Fungal infection",
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "support": 2
+  },
+  {
+    "disease": "(vertigo) Paroymsal  Positional Vertigo",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "AIDS",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Acne",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Alcoholic hepatitis",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Allergy",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Arthritis",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Bronchial Asthma",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Cervical spondylosis",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Chronic cholestasis",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Common Cold",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Dengue",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Diabetes ",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Dimorphic hemmorhoids(piles)",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Drug Reaction",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "GERD",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Gastroenteritis",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Heart attack",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Hepatitis B",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Hepatitis C",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Hepatitis D",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Hepatitis E",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Hypertension ",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Hyperthyroidism",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Hypoglycemia",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Hypothyroidism",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Impetigo",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Jaundice",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Malaria",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Migraine",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Osteoarthristis",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Paralysis (brain hemorrhage)",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Peptic ulcer diseae",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Pneumonia",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Psoriasis",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Tuberculosis",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Typhoid",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Urinary tract infection",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "Varicose veins",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  },
+  {
+    "disease": "hepatitis A",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+  }
+]

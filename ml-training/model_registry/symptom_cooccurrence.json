@@ -1,0 +1,252 @@
+[
+  {
+    "symptom_1": "vomiting",
+    "symptom_2": "nausea",
+    "co_occurrences": 978
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "high_fever",
+    "co_occurrences": 978
+  },
+  {
+    "symptom_1": "vomiting",
+    "symptom_2": "abdominal_pain",
+    "co_occurrences": 870
+  },
+  {
+    "symptom_1": "loss_of_appetite",
+    "symptom_2": "yellowing_of_eyes",
+    "co_occurrences": 786
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "loss_of_appetite",
+    "co_occurrences": 774
+  },
+  {
+    "symptom_1": "vomiting",
+    "symptom_2": "loss_of_appetite",
+    "co_occurrences": 768
+  },
+  {
+    "symptom_1": "vomiting",
+    "symptom_2": "fatigue",
+    "co_occurrences": 762
+  },
+  {
+    "symptom_1": "yellowish_skin",
+    "symptom_2": "abdominal_pain",
+    "co_occurrences": 762
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "malaise",
+    "co_occurrences": 666
+  },
+  {
+    "symptom_1": "nausea",
+    "symptom_2": "loss_of_appetite",
+    "co_occurrences": 666
+  },
+  {
+    "symptom_1": "chills",
+    "symptom_2": "high_fever",
+    "co_occurrences": 660
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "nausea",
+    "co_occurrences": 660
+  },
+  {
+    "symptom_1": "yellowish_skin",
+    "symptom_2": "yellowing_of_eyes",
+    "co_occurrences": 660
+  },
+  {
+    "symptom_1": "vomiting",
+    "symptom_2": "high_fever",
+    "co_occurrences": 654
+  },
+  {
+    "symptom_1": "yellowish_skin",
+    "symptom_2": "loss_of_appetite",
+    "co_occurrences": 654
+  },
+  {
+    "symptom_1": "loss_of_appetite",
+    "symptom_2": "abdominal_pain",
+    "co_occurrences": 654
+  },
+  {
+    "symptom_1": "vomiting",
+    "symptom_2": "yellowish_skin",
+    "co_occurrences": 648
+  },
+  {
+    "symptom_1": "vomiting",
+    "symptom_2": "headache",
+    "co_occurrences": 642
+  },
+  {
+    "symptom_1": "abdominal_pain",
+    "symptom_2": "yellowing_of_eyes",
+    "co_occurrences": 564
+  },
+  {
+    "symptom_1": "vomiting",
+    "symptom_2": "yellowing_of_eyes",
+    "co_occurrences": 558
+  },
+  {
+    "symptom_1": "chills",
+    "symptom_2": "fatigue",
+    "co_occurrences": 552
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "headache",
+    "co_occurrences": 552
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "abdominal_pain",
+    "co_occurrences": 552
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "yellowing_of_eyes",
+    "co_occurrences": 552
+  },
+  {
+    "symptom_1": "high_fever",
+    "symptom_2": "headache",
+    "co_occurrences": 552
+  },
+  {
+    "symptom_1": "high_fever",
+    "symptom_2": "malaise",
+    "co_occurrences": 552
+  },
+  {
+    "symptom_1": "headache",
+    "symptom_2": "nausea",
+    "co_occurrences": 552
+  },
+  {
+    "symptom_1": "dark_urine",
+    "symptom_2": "abdominal_pain",
+    "co_occurrences": 546
+  },
+  {
+    "symptom_1": "nausea",
+    "symptom_2": "abdominal_pain",
+    "co_occurrences": 546
+  },
+  {
+    "symptom_1": "nausea",
+    "symptom_2": "yellowing_of_eyes",
+    "co_occurrences": 546
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "yellowish_skin",
+    "co_occurrences": 540
+  },
+  {
+    "symptom_1": "yellowish_skin",
+    "symptom_2": "dark_urine",
+    "co_occurrences": 540
+  },
+  {
+    "symptom_1": "yellowish_skin",
+    "symptom_2": "nausea",
+    "co_occurrences": 540
+  },
+  {
+    "symptom_1": "loss_of_appetite",
+    "symptom_2": "malaise",
+    "co_occurrences": 462
+  },
+  {
+    "symptom_1": "cough",
+    "symptom_2": "chest_pain",
+    "co_occurrences": 450
+  },
+  {
+    "symptom_1": "high_fever",
+    "symptom_2": "loss_of_appetite",
+    "co_occurrences": 450
+  },
+  {
+    "symptom_1": "dark_urine",
+    "symptom_2": "yellowing_of_eyes",
+    "co_occurrences": 450
+  },
+  {
+    "symptom_1": "chills",
+    "symptom_2": "headache",
+    "co_occurrences": 444
+  },
+  {
+    "symptom_1": "joint_pain",
+    "symptom_2": "loss_of_appetite",
+    "co_occurrences": 444
+  },
+  {
+    "symptom_1": "high_fever",
+    "symptom_2": "nausea",
+    "co_occurrences": 444
+  },
+  {
+    "symptom_1": "chills",
+    "symptom_2": "vomiting",
+    "co_occurrences": 438
+  },
+  {
+    "symptom_1": "chills",
+    "symptom_2": "malaise",
+    "co_occurrences": 438
+  },
+  {
+    "symptom_1": "joint_pain",
+    "symptom_2": "nausea",
+    "co_occurrences": 438
+  },
+  {
+    "symptom_1": "dark_urine",
+    "symptom_2": "loss_of_appetite",
+    "co_occurrences": 438
+  },
+  {
+    "symptom_1": "joint_pain",
+    "symptom_2": "vomiting",
+    "co_occurrences": 432
+  },
+  {
+    "symptom_1": "vomiting",
+    "symptom_2": "dark_urine",
+    "co_occurrences": 432
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "weight_loss",
+    "co_occurrences": 432
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "sweating",
+    "co_occurrences": 432
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "dark_urine",
+    "co_occurrences": 432
+  },
+  {
+    "symptom_1": "fatigue",
+    "symptom_2": "lethargy",
+    "co_occurrences": 426
+  }
+]
